@@ -1,7 +1,4 @@
 ### Hi, I'm Sindor OStonov <img src="https://media.giphy.com/media/hvR3CLFzcasrR45a7s/giphy.gif" width="27px">
-make videos on YouTube about software development. <br />
-
-work remotely and like to travel a lot.
 
 <br />
 ### Languages and tools I work with:
