@@ -1,4 +1,4 @@
-### Hi, I'm Sindor OStonov <img src="https://media.giphy.com/media/hvR3CLFzcasrR45a7s/giphy.gif" width="27px">
+### Hi, I'm Sindor Ostonov <img src="https://media.giphy.com/media/hvR3CLFzcasrR45a7s/giphy.gif" width="40px">
 
 <br />
 ### Languages and tools I work with:
