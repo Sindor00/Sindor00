@@ -1,8 +1,8 @@
 ### Hi, I'm Sindor Ostonov <img src="https://media.giphy.com/media/hvR3CLFzcasrR45a7s/giphy.gif" width="40px">
 
 <br />
-### Languages and tools I work with:
-<code><img src="https://ww.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png" width="30px"></code> I
+### Languages and tools I work with: <br/>
+<code><img src="[https://ww.freepnglogos.com/uploads/html5-logo-png/html5-logo-html-logo-10.png](https://e7.pngegg.com/pngimages/780/934/png-clipart-html-logo-html5-logo-icons-logos-emojis-tech-companies-thumbnail.png)" width="30px"></code> 
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="36px"></code>
 <code><img src="https://sass-lang.com/assets/ing/styleguide/white-e44beded.png" width="30px"></code>
 <code><img src="https://iconape.com/wp-content/png_logo_vector/bootstrap.png" width="30px"></code>
